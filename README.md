@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello ✨
+
+My name is Callum, and I am currently in my second year of studying a QQI Level 8 BSc of Cybercrime and IT Security in SETU.
+
+Before enrolling in this degree, I also took the time to do a QQI Level 5 in Computer Systems with Networks, so that I could polish up a few skills before jumping straight in to the level 8.
+I have an interest in all things cybersecurity related, and enjoy reading about data breaches and how they were accomplished.
+
+I will be using this account to store both my college work projects, and personal ones too.
+As this is my personal account, all college projects will be added in one final complete version, as they are committed to a private student account, hence minimal commits on the repositories.
+
+I will be uploading personal projects here, when im not subjecting myself to working on my car...
 
 <!--
 **Callum2305/Callum2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
