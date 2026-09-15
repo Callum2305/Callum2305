@@ -10,8 +10,6 @@ I will be using this account to store my projects.
 As this is my personal account, all college projects will be added in one final complete version, as they are committed to a private student account, hence minimal commits on the repositories.
 I do most of my work on a separate, private student account. They are only uploaded here after grading, as they are to be kept in private repositories until then.
 
-There are some projects that will not be uploaded here, such as projects done in my QQI level 5 as they are around 3 years old now. 
-I will also not be uploading any report based projects or those done in Cisco Packet Tracer.
 
 ### Examples of what I have used so far in my studies:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
