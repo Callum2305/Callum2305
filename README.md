@@ -10,13 +10,23 @@ I will be using this account to store my projects.
 As this is my personal account, all college projects will be added in one final complete version, as they are committed to a private student account, hence minimal commits on the repositories.
 I do most of my work on a separate, private student account. They are only uploaded here after grading, as they are to be kept in private repositories until then.
 
-I have pinned my favorite projects below this ReadMe.
+### Some Projects that can be found on my account are:
+- A Port Scanning Tool written in Python.
+- A Log File Parser tool written in Python.
+- A Machine Learning project for a Raspberry Pi, using a Sense Hat, written in Python.
+- A text based game, written in 68K Assembly.
+- Conversion of 68K Assembly code to x86 Assembly.
+- Network topologies created and configured in Packet Tracer to showcase Inter VLAN Routing, Static Routes and DHCP allocations.
+- A 5 month long research project into a ransomware attack, mapping attack vectors and identifying CVEs.
+- A Monitoring and Security environment configured across two Linux virtual machines, using Prometheus, Fail2Ban, Grafana, Node Exporter and Alert Manager.
+
+I have pinned my favorite projects below this ReadMe, however all of the above are present on my account in public repositories.
 
 I also store completed lab files here too, as I do use this account as a way of keeping backups of certain labs. Some of which are set to public/private depending on the material.
 
 I have experience working with Java, JavaScript, C, Python, 68K and x86 Assembly, HTML, PHP, SQL and CSS.
 
-I have used various tools and applications, such as XAMPP, ZAP, Packet Tracer, VMWare, Prometheus, Grafana, Fail2Ban and Microsoft TMT, to name a few.
+I have also used various tools and applications, such as XAMPP, ZAP, Packet Tracer, VMWare, Prometheus, Grafana, Fail2Ban and Microsoft TMT, to name a few.
 
 
 ### Examples of what I have used so far in my studies:
