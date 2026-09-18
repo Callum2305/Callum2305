@@ -10,6 +10,8 @@ I will be using this account to store my projects.
 As this is my personal account, all college projects will be added in one final complete version, as they are committed to a private student account, hence minimal commits on the repositories.
 I do most of my work on a separate, private student account. They are only uploaded here after grading, as they are to be kept in private repositories until then.
 
+I have pinned my favorite projects below this ReadMe.
+
 I also store completed lab files here too, as I do use this account as a way of keeping backups of certain labs. Some of which are set to public/private depending on the material.
 
 I have experience working with Java, JavaScript, C, Python, 68K and x86 Assembly, HTML, PHP, SQL and CSS.
