@@ -12,6 +12,10 @@ I do most of my work on a separate, private student account. They are only uploa
 
 I also store completed lab files here too, as I do use this account as a way of keeping backups of certain labs. Some of which are set to public/private depending on the material.
 
+I have experience working with Java, JavaScript, C, Python, 68K and x86 Assembly, HTML, PHP, SQL and CSS.
+
+I have used various tools and applications, such as XAMPP, ZAP, Packet Tracer, VMWare, Prometheus, Grafana, Fail2Ban and Microsoft TMT, to name a few.
+
 
 ### Examples of what I have used so far in my studies:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
