@@ -11,14 +11,15 @@ As this is my personal account, all college projects will be added in one final 
 I do most of my work on a separate, private student account. They are only uploaded here after grading, as they are to be kept in private repositories until then.
 
 ## Some Projects that can be found on my account are:
-- A Port Scanning Tool written in Python.
-- A Log File Parser tool written in Python.
-- A Machine Learning project for a Raspberry Pi, using a Sense Hat, written in Python.
-- A text based game, written in 68K Assembly.
-- Conversion of 68K Assembly code to x86 Assembly.
-- Network topologies created and configured in Packet Tracer to showcase Inter VLAN Routing, Static Routes and DHCP allocations.
-- A 5 month long research project into a ransomware attack, mapping attack vectors and identifying CVEs.
-- A Monitoring and Security environment configured across two Linux virtual machines, using Prometheus, Fail2Ban, Grafana, Node Exporter and Alert Manager.
+- [A Port Scanning Tool written in Python.](https://github.com/Callum2305/Recon.py)
+- [A Log File Parser tool written in Python.](https://github.com/Callum2305/Log-File-Parser)
+- [A Machine Learning project for a Raspberry Pi, using a Sense Hat, written in Python.](https://github.com/Callum2305/Sense-Hat-Recognition-Project)
+- [A text based game, written in 68K Assembly.](https://github.com/Callum2305/68K-Assembly-Text-Based-Game)
+- [Conversion of 68K Assembly code to x86 Assembly.](https://github.com/Callum2305/Convert-68000-Assembly-Code-to-x86_64)
+- [A 5 month long research project into a ransomware attack, mapping attack vectors and identifying CVEs.](https://github.com/Callum2305/Incident-Response-Threat-Modeling-Case-Study)
+- [A Monitoring and Security environment configured across two Linux virtual machines, using Prometheus, Fail2Ban, Grafana, Node Exporter and Alert Manager.](https://github.com/Callum2305/Promethues-Grafana-Fail2Ban-System-Monitoring)
+- [A Switching and VLAN Concepts Networking topology built and configured in Packet Tracer.](https://github.com/Callum2305/Switching-and-VLAN-Concepts-Project)
+- [A Static Route LAN topology built and configured in Packet Tracer.](https://github.com/Callum2305/Static-Route-LAN-Topology)
 
 I have pinned my favorite projects below this ReadMe, however all of the above are present on my account in public repositories.
 
